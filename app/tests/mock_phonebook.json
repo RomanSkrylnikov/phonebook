@@ -1,0 +1,42 @@
+[
+  {
+    "lastname": "ivanov",
+    "name": "ivan",
+    "middlename": "ivanovich",
+    "org_name": "facebook",
+    "work_phone": "11111",
+    "cell_phone": "88005553535"
+  },
+  {
+    "lastname": "semenov",
+    "name": "semen",
+    "middlename": "semenovich",
+    "org_name": "amazon",
+    "work_phone": "22222",
+    "cell_phone": "88009999999"
+  },
+  {
+    "lastname": "sergeev",
+    "name": "sergey",
+    "middlename": "sergeevich",
+    "org_name": "apple",
+    "work_phone": "33333",
+    "cell_phone": "88007777777"
+  },
+  {
+    "lastname": "aleksandrova",
+    "name": "aleksandra",
+    "middlename": "aleksandrovna",
+    "org_name": "netflix",
+    "work_phone": "44444",
+    "cell_phone": "88006666666"
+  },
+  {
+    "lastname": "romanov",
+    "name": "roman",
+    "middlename": "romanovich",
+    "org_name": "google",
+    "work_phone": "55555",
+    "cell_phone": "88005555555"
+  }
+]

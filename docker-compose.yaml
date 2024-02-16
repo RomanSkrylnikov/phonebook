@@ -1,0 +1,22 @@
+version: '3.7'
+services:
+  dbase:
+    image: postgres:15.0
+    container_name: phonebook_db
+    env_file:
+      - .env-non-dev
+    ports:
+      - 5432:5432
+
+  phonebook:
+    #image: phonebook_image
+    build:
+      context: .
+    container_name: phonebook_app
+    env_file:
+      - .env-non-dev
+    depends_on:
+      - dbase
+    command: ["/phonebook/docker/app.sh"]
+    ports:
+      - 7777:8000
