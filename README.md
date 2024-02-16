@@ -11,6 +11,7 @@
 - Удаление пользователя
 
 
+<h4>Список используемых технологий:</h4>
 
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
