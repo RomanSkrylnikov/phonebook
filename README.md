@@ -20,3 +20,6 @@
 
 
 [![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+
+![Gunicorn](https://img.shields.io/badge/Gunicorn-blue?style=for-the-badge&logo=gunicorn&logoColor=white)
